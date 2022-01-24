@@ -1,0 +1,17 @@
+.header{
+    background-image: url("/./images/michal-kubalczyk-tdMu8W9NTnY-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    height: 80vh;
+    background-attachment: fixed;
+
+}
+.about h1{
+    text-align: center;
+}
+.about p{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
